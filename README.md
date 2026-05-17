@@ -9,4 +9,5 @@ browsers.
 графического редактора Blender, WEBGL и HTML-5 по созданию web-страниц с
 интерактивными цветными 3D объектами на основе цветных цифровых 2D фотографий.
 
-<img width="1694" height="1031" alt="изображение" src="https://github.com/user-attachments/assets/f6946f99-4e95-4abb-992b-a2f8a8a9f171" />
+<img width="1079" height="832" alt="изображение" src="https://github.com/user-attachments/assets/da117bc5-f549-4b85-b5cd-ed15b4a39b1b" />
+
