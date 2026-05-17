@@ -5,7 +5,7 @@ browser на основе цифровой 2D-фотографии с приме
 * Нейросеть PIFuHD:
 - https://shunsukesaito.github.io/PIFuHD/
 
-
+# Пример оцифрованной модели:
 <img width="1079" height="832" alt="изображение" src="https://github.com/user-attachments/assets/da117bc5-f549-4b85-b5cd-ed15b4a39b1b" />
 
 
